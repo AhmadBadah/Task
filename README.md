@@ -1,4 +1,6 @@
-
+# Note
+  This project based on React Flow lib, so React Flow library have a problem in rerender when updates node, I tried to fix it but I don't have enagh time.
+        You can see updates when download json file and
 # Task
 Drag and Drop task for relational digram with react Js
 

@@ -1,0 +1,52 @@
+.dndnode,
+aside .description {
+  margin-bottom: 10px;
+}
+
+.dndnode {
+  padding: 10px;
+  border-radius: 3px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+  border-bottom-left-radius: 3px;
+  width: 160px;
+  font-size: 12px;
+  color: #222;
+  text-align: center;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #1a192b;
+  background-color: white;
+}
+
+.dndnode.input {
+  padding: 10px;
+  border-radius: 3px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+  border-bottom-left-radius: 3px;
+  width: 160px;
+  font-size: 12px;
+  color: #222;
+  text-align: center;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #1a192b;
+  background-color: white;
+}
+
+.dndnode.defualt {
+  height: 160px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 80px;
+  display: flex;
+  border-color: #a42a2a;
+  color: #a42a2a;
+}
+
+.note {
+  border: 2px solid red;
+}

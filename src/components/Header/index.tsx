@@ -105,7 +105,7 @@ const Header = ({ reactFlowInstance }: any) => {
       )}
       <div className="d-flex align-items-center">
         <label className="custom-file-upload">
-          <input type={"file"} onChange={onUpload} />
+          <input accept="application/JSON" type={"file"} onChange={onUpload} />
           Upload
         </label>
         <Button onClick={onDownload} className="mx-3">
